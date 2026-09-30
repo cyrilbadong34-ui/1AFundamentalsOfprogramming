@@ -1,3 +1,5 @@
+package FOPActivity_Badong_Barraca_Sion;
+
 import java.util.Scanner;
 public class sixthJava{
 

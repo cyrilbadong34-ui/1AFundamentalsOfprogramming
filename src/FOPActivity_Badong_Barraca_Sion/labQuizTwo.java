@@ -1,9 +1,10 @@
+package FOPActivity_Badong_Barraca_Sion;
+
 import java.util.Scanner;
 public class labQuizTwo {
     public static void main(String[] args) {
 
         String name;
-        int amount;
         double ss;
         double vin;
         double kilo;
