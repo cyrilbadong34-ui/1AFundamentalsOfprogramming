@@ -1,5 +1,3 @@
-package FOPActivity_Badong_Barraca_Sion;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
@@ -9,7 +7,7 @@ public class labQuizOne {
 
         BufferedReader dataIn = new BufferedReader(new InputStreamReader(System.in));
         try {
-            System.out.print("Enter Your Birth Year:");
+            System.out.print("Enter Your Birth Year: ");
             String yearInput = dataIn.readLine();
             int year = Integer.parseInt(yearInput);
             int lastyear = 2026-year;
