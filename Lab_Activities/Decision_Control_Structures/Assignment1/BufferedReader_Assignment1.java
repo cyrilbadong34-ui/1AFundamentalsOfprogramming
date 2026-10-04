@@ -1,5 +1,3 @@
-package Decision_Control_Structure_Assignment1;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;

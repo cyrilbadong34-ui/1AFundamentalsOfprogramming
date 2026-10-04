@@ -1,5 +1,3 @@
-package Decision_Control_Structure_Assignment1;
-
 import java.util.Scanner;
 public class Scanner_Assignment1 {
     public static void main(String[] args) {

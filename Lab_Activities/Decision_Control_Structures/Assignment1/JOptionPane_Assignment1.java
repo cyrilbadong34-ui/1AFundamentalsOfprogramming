@@ -1,5 +1,3 @@
-package Decision_Control_Structure_Assignment1;
-
 import javax.swing.JOptionPane;
 
 public class JOptionPane_Assignment1 {
